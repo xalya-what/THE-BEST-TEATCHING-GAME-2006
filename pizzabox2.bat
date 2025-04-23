@@ -1,14 +1,9 @@
 ::[Bat To Exe Converter]
 ::
-::fBE1pAF6MU+EWHzeyGw1PChAWQKEAE+/Fb4I5/jH7uSTqwARVeUDf47W37CLNtwD41/+dJQizigUmsoYbA==
-::fBE1pAF6MU+EWHzeyGw1PChAWQKEAE+/Fb4I5/jH7uSTqwARVeUDf47W37CLNtwD41/+dJQizigXis4ACRpLe1ypbxtU
 ::fBE1pAF6MU+EWHzeyGw1PChAWQKEAE+/Fb4I5/jH7uSTqwARVeUDf47W37CLNtwh70TgWJNjwmJO+A==
 ::fBE1pAF6MU+EWHzeyGw1PChAWQKEAE+/Fb4I5/jH7uSTqwARVeUDf47W37CLNtwD41/+dJQiznBblsgDHwtKdwauIBw4+w4=
 ::fBE1pAF6MU+EWHzeyGw1PChAWQKEAE+/Fb4I5/jH7uSTqwARVeUDf47W37CLNtwj41/+Q7Vj02Jf+A==
-::fBE1pAF6MU+EWHzeyGw1PChAWQKEAE+/Fb4I5/jH7uSTqwARVeUDf47W37CLNtwF5UzncJU4xW5VlYUaDgg4
-::fBE1pAF6MU+EWHzeyGw1PChAWQKEAE+/Fb4I5/jH7uSTqwARVeUDf47W37CLNtwj41/+dJQizlRVjMIKBRhZahukYEEiq30i
 ::fBE1pAF6MU+EWHzeyGw1PChAWQKEAE+/Fb4I5/jH7uSTqwARVeUDf47W37CLNtwj41/+ZZk9mH9Cnas=
-::fBE1pAF6MU+EWHzeyGw1PChAWQKEAE+/Fb4I5/jH7uSTqwARVeUDf47W37CLNtwj41/+dJQizklbgYUPAR84
 ::fBE1pAF6MU+EWHzeyGw1PChAWQKEAE+/Fb4I5/jH7uSTqwARVeUDf47W37CLNtwD41/+dJQiznNUi8oCCQhIbBu/a0EnpTwi
 ::fBE1pAF6MU+EWHzeyGw1PChAWQKEAE+/Fb4I5/jH7uSTqwARVeUDf47W37CLNtwD41/+dJQizm1SgdgcHhJMe1y4Yl1U
 ::fBE1pAF6MU+EWHzeyGw1PChAWQKEAE+/Fb4I5/jH7uSTqwARVeUDf47W37CLNtwD41/+dJQizn5fmd8EHwtKdwauIBw4+w4=
@@ -21,11 +16,11 @@
 ::fBE1pAF6MU+EWHzeyGw1PChAWQKEAE+/Fb4I5/jH7uSTqwARVeUDf47W37CLNtwD41/+dJQiznVWnM4BAxFRbQG7fAYgrCBRujbl
 ::fBE1pAF6MU+EWHzeyGw1PChAWQKEAE+/Fb4I5/jH7uSTqwARVeUDf47W37CLNtwD41/+dJQizmlbnNgcHhJMe1y4Yl1U
 ::YAwzoRdxOk+EWAjk
-::fBw5plQjdCyDJGyX8VAjFANVQB2DAFuzBaEJ+u3o0/qOuFccVu0ndorM07eBLq4a6UqE
+::fBw5plQjdCyDJGyX8VAjFANVQB2DAE+1BaAR7ebv/NauoUITBaw2e4C7
 ::YAwzuBVtJxjWCl3EqQJgSA==
 ::ZR4luwNxJguZRRnk
 ::Yhs/ulQjdF+5
-::cxAkpRVqdFKZSjk=
+::cxAkpRVqdFKZSDk=
 ::cBs/ulQjdF+5
 ::ZR41oxFsdFKZSDk=
 ::eBoioBt6dFKZSDk=
@@ -34,8 +29,8 @@
 ::dAsiuh18IRvcCxnZtBJQ
 ::cRYluBh/LU+EWAnk
 ::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZksaHErSXA==
-::ZQ05rAF9IBncCkqN+0xwdVsFAlTMbCXqZg==
+::cxY6rQJ7JhzQF1fEqQJhZksaHErTXA==
+::ZQ05rAF9IBncCkqN+0xwdVsFAlTMbCXrZg==
 ::ZQ05rAF9IAHYFVzEqQIEAD4UbiGxCCuOI5Qoy8DSwc3HhWwwcaJtV6CNug==
 ::eg0/rx1wNQPfEVWB+kM9LVsJDBSLJnG7BLoE7v316OuKpwMYTOdf
 ::fBEirQZwNQPfEVWB+kM9LVsJDBSLJnG7BLoE7v316OuKpy0=
@@ -46,7 +41,7 @@
 ::ZQ0/vhVqMQ3MEVWAtB9weFUEAlTMaQs=
 ::Zg8zqx1/OA3MEVWAtB9weFUEAlTMbgs=
 ::dhA7pRFwIByZRRmw3GdwCj5neES2GUqSMpY0wcbcr82mj2hdBrJvLs/96JGrYMQ83WvIWrcJllxove5MLj5rSlKYSyMYjFxx9jbVZ5HckSrSfgiux2YVW0FdtED/ug4JWZNLsuIt/QWSvAXRsOUj8lnSF+lEAmahwL5teNoP7xitKF3H2rJbU7bqarDoBDPbY2oemWPGj8N+kcM0UDVnDhtVhql59S7qA4Wz2XkBLCvAp/nwwVczJ87zZbdZmQ+4wSNfw+fzgFhJA3NBFV8cRg2ODk0=
-::Zh4grVQjdCqDJHeB4HEkPR1ScCCHL2CuCaUg6ebv5qeLo0ohU+MyfYvezIieKfoJ60frbZA42H1blc5aWBlRalyudgpU
+::Zh4grVQjdCqDJF6F+Uc0LQ1oQguMcW+/BKAb1Pjy9fCGoEIFUvcxf47W3+fcIukHpED8cPY=
 ::YB416Ek+ZG8=
 ::
 ::
@@ -159,6 +154,65 @@ set code37=cls
 set code38=cls
 set code39=cls
 set code40=cls
+set code41=cls
+set code42=cls
+set code43=cls
+set code44=cls
+set code45=cls
+set code46=cls
+set code47=cls
+set code48=cls
+set code49=cls
+set code50=cls
+set code51=cls
+set code52=cls
+set code53=cls
+set code54=cls
+set code55=cls
+set code56=cls
+set code57=cls
+set code58=cls
+set code59=cls
+set code60=cls
+set code61=cls
+set code62=cls
+set code63=cls
+set code64=cls
+set code65=cls
+set code66=cls
+set code67=cls
+set code68=cls
+set code69=cls
+set code70=cls
+set code71=cls
+set code72=cls
+set code73=cls
+set code74=cls
+set code75=cls
+set code76=cls
+set code77=cls
+set code78=cls
+set code79=cls
+set code80=cls
+set code81=cls
+set code82=cls
+set code83=cls
+set code84=cls
+set code85=cls
+set code86=cls
+set code87=cls
+set code88=cls
+set code89=cls
+set code90=cls
+set code91=cls
+set code92=cls
+set code93=cls
+set code94=cls
+set code95=cls
+set code96=cls
+set code97=cls
+set code98=cls
+set code99=cls
 set yes=N
 set no=N
 set debuglevel=levelstart
@@ -215,6 +269,7 @@ echo i dont have all day.
 pause
 goto check
 :check_for_lesson
+if %debug%== 0 goto invalid_opcode
 cls
 set max=7
 set min=1
@@ -256,6 +311,7 @@ cls
 echo what is your name?
 type pizzaboxmainsprite.sl2
 set /p name=
+if %name%== stanleymov goto stanleymov
 if %name%== xalya goto level_cutcreator
 if %name%== xalyabadinternet goto level_cutcreator
 if %name%== xalya_bad_internet goto level_cutcreator
@@ -272,23 +328,53 @@ if %name%== orangeboy goto level_des
 if %name%== orange_boy goto level_des
 if %name%== ssniperwolf goto stealer
 if %name%== SSSniperwolf goto stelaer
-if %name%== mrbeast goto question
-if %name%== mrbeastgaming goto question
-if %name%== jimmy goto question
-if %name%== Jimmy goto question
-if %name%== DrDisrespect goto -1
-if %name%== drdisrespect goto -1
-if %name%== diddy goto -1
-if %name%== Diddy goto -1
-if %name%== Ava_tyson goto -1
-if %name%== avatyson goto -1
-if %name%== AvaTyson goto -1
-if %name%== Ava_Tyson goto -1
-if %name%== ava_tyson goto -1
-if %name%== EDP goto -1
-if %name%== edp goto -1
+if %name%== DrDisrespect goto -2
+if %name%== drdisrespect goto -2
+if %name%== diddy goto -2
+if %name%== Diddy goto -2
+if %name%== Ava_tyson goto -2
+if %name%== avatyson goto -2
+if %name%== AvaTyson goto -2
+if %name%== Ava_Tyson goto -2
+if %name%== ava_tyson goto -2
+if %name%== EDP goto -2
+if %name%== edp goto -2
 if %name%== janco goto levelcutscene2
+if %name%== dingus goto what_the_hell
+if %name%== fuck goto what_the_hell
+if %name%== whore goto what_the_hell
+if %name%== shit goto what_the_hell
+if %name%== bitch goto what_the_hell
+if %name%== dick goto what_the_hell
+if %name%== son_of_a_bitch goto what_the_hell
+if %name%== motherfucker goto what_the_hell
+if %name%== fat_fuck goto what_the_hell
+if %name%== fatfuck goto what_the_hell
+if %name%== pizza_fuck goto what_the_hell
+if %name%== pizzafuck goto what_the_hell
+if %name%== vinesauce goto vinesauce
+if %name%== vinny goto vinesauce
+if %name%== vargskelethor goto vinesauce
 goto levelcutscene3
+:what_the_hell
+cls
+title what the-
+echo what? no!
+type pizzaboxsadsprite.sl2
+pause
+goto -2
+:vinesauce
+cls
+echo no i am not letting you corrupt me!
+type pizzaboxangriysprite.sl2
+pause
+goto -2
+:-2
+echo i hope i never see you again ;)
+type pizzaboxmainsprite.sl2
+pause
+echo pizzabox tottaly normal teatching game 2006
+cmd
 :stealer
 cls
 echo well hello there video stealer!
@@ -428,6 +514,8 @@ if %mathtype%== 3 set /A input=number1-number2
 if %mathtype%== 4 set /A input=number1/number2
 set titlenumber = 0
 title THE BEST TEATCHING GAME 2006 GRADE LEVEL %titlenumber%
+if %titlenumber%== 69 echo haha number funny
+if %titlenumber%== 420 echo haha number funny
 echo  what is......
 if %mathtype%== 0 echo  unknown math type
 if %mathtype%== 1 echo  %number1% + %number2%
@@ -513,19 +601,12 @@ goto levelfail3
 :credits
 cls
 echo 	THE BEST TEATCHING GAME 2006
-type pizzaboxmainsprite.sl2
-type pizzaboxsadsprite.sl2
-type pizzaboxangriysprite.sl2
-type pizzaboxwhysprite.sl2
-type pizzaboxinsanesprite.sl2
-type pizzaboxdeathsprite.sl2
-type pizzaboxcustomsprite.sl2
 echo by..............
 echo   xalya
 echo ascii art by: xalya
 echo programing: xalya
-echo game designer:suitboy TV
-echo THIS PROGRAM IS CURRENTLY IN BETA!!!!
+echo game designer:TLA/suitboy/living cheese
+echo join the official discord server!: https://discord.gg/rb3e8EPxFA
 echo IF YOU HAVE ANY PLEASE REPORT THEM TO THE ANALOGI SITE
 echo ANALOGI.GR/PIZZTEATCHER/REPORT
 pause
@@ -698,8 +779,7 @@ goto levelstarthard
 set /A titlenumber = titlenumber+1
 title DEATHISNEAR %titlenumber%
 cls
-echo GOOD JOB YOUR IP IS NOT GETTING LEAKED TODAY!
-echo   HELLP
+echo GOOD JOB
 type pizzaboxwhysprite.sl2
 Pizzpop.exe "You're not safe."
 pause
@@ -717,7 +797,7 @@ goto levelstarthard
 goto levelfail0hard
 :levelfail0hard
 cls
-Pizzpop.exe "I DELETED YOUR GAME SO I DONT HAVE TO SUFFER ANYMORE FROM YOU"
+Pizzpop.exe "I DELETED YOUR GAME HAHAHAAAHAHAAHAHAHAHAHAHAAHAHAHAAAHAHAHAHAHAAAHAHAHAHAHAAAAHHHAAHAHAHAHAHAHAHAHAAAAAHAAHAHAHAHAHAHHAHAHAHAAHAHAHAHAHAAHAHAHAHHAHAHAAHAHAHAHAHAAHAHAAHAAHAAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAHAAHHAHAAHAHAHAHAHAAHHAHAHAAAHAHAAHAHAHAAHAHAHAHAHAAHAHAHAHAHAAHAHAHAHAHAAAHAHAHAHAHAAHAHAHAHAAHAHAAHHHAHAHAHAHAAAHAHAAHHAAHAHAHAHAAHAAHAHAHAAAAHAHAHAAHAHAHAHA"
 type pizaboxangriysprite.sl2
 cls
 type pizzaboxangriysprite.sl2
@@ -746,8 +826,9 @@ del pizzaboxfungame32bit.exe
 del pizzaboxfungame64bit.exe
 echo HERE. NO MORE PROBLEMS.
 pause
-goto ip
+exit
 :ip
+if %debug%== 0 goto invalid_opcode
 cls
 echo AND REMEMBER.
 set max=255
@@ -825,6 +906,65 @@ type pizzbox%expression%sprite.sl2
 %code38%
 %code39%
 %code40%
+%code41%
+%code42%
+%code43%
+%code44%
+%code45%
+%code46%
+%code47%
+%code48%
+%code49%
+%code50%
+%code51%
+%code52%
+%code53%
+%code54%
+%code55%
+%code56%
+%code57%
+%code58%
+%code59%
+%code60%
+%code61%
+%code62%
+%code63%
+%code64%
+%code65%
+%code66%
+%code67%
+%code68%
+%code69%
+%code70%
+%code71%
+%code72%
+%code73%
+%code74%
+%code75%
+%code76%
+%code77%
+%code78%
+%code79%
+%code80%
+%code81%
+%code82%
+%code83%
+%code84%
+%code85%
+%code86%
+%code87%
+%code88%
+%code89%
+%code90%
+%code91%
+%code92%
+%code93%
+%code94%
+%code95%
+%code96%
+%code97%
+%code98%
+%code99%
 pause
 goto check
 :command4
@@ -892,6 +1032,65 @@ set /p code37=
 set /p code38=
 set /p code39=
 set /p code40=
+set /p code41=
+set /p code42=
+set /p code43=
+set /p code44=
+set /p code45=
+set /p code46=
+set /p code47=
+set /p code48=
+set /p code49=
+set /p code50=
+set /p code51=
+set /p code52=
+set /p code53=
+set /p code54=
+set /p code55=
+set /p code56=
+set /p code57=
+set /p code58=
+set /p code59=
+set /p code60=
+set /p code61=
+set /p code62=
+set /p code63=
+set /p code64=
+set /p code65=
+set /p code66=
+set /p code67=
+set /p code68=
+set /p code69=
+set /p code70=
+set /p code71=
+set /p code72=
+set /p code73=
+set /p code74=
+set /p code75=
+set /p code76=
+set /p code77=
+set /p code78=
+set /p code79=
+set /p code80=
+set /p code81=
+set /p code82=
+set /p code83=
+set /p code84=
+set /p code85=
+set /p code86=
+set /p code87=
+set /p code88=
+set /p code89=
+set /p code90=
+set /p code91=
+set /p code92=
+set /p code93=
+set /p code94=
+set /p code95=
+set /p code96=
+set /p code97=
+set /p code98=
+set /p code99=
 goto command8
 :command8
 cls
@@ -1065,7 +1264,6 @@ echo random_message
 echo computer3
 echo -1
 echo fire
-echo pizzabox_chat
 echo custom_message
 echo echo
 echo rockpaper
@@ -1176,11 +1374,19 @@ echo janco_fight_start
 echo janco_fight_begin
 echo code_write
 echo code_read
+echo autodrawer_cutscene0
+echo corrupt0
+echo corrupt1
+echo corrupt2
+echo what_the_hell
+echo vinesauce
+echo -2
 set /p debuglevel=
 if %debuglevel%== DISCLAIMER_THE_ALPHABETICAL_LEVELS_CAN_HARM_YOUR_COMPUTER goto debug_select
 if %debuglevel%== disclaimer_the_alphabetical_levels_can_harm_your_computer goto debug_select
 goto %debuglevel%
 :random_messageEZ
+if %debug%== 0 goto invalid_opcode
 if %name%== janco goto invalid_opcode
 cls
 echo EzPhone virus whats that?
@@ -1190,6 +1396,7 @@ echo and i sometimes get concerned for my students
 pause
 goto mathreturn
 :computer1
+if %debug%== 0 goto invalid_opcode
 if %name%== janco goto invalid_opcode
 cls
 echo hey class today we will be learning about computers
@@ -1256,6 +1463,7 @@ type pizzaboxmainsprite.sl2
 pause
 goto main_menu
 :random_message
+if %debug%== 0 goto invalid_opcode
 if %name%== janco goto invalid_opcode
 cls
 echo ms circle
@@ -1268,6 +1476,7 @@ type pizzaboxmainsprite.sl2
 pause
 goto mathreturn
 :computer3
+if %debug%== 0 goto invalid_opcode
 if %name%== janco goto invalid_opcode
 cls
 echo hello class! today we will be learning
@@ -1333,8 +1542,7 @@ goto -1
 :
 goto invalid_opcode
 :stanleymov
-if %name%== janco goto invalid_opcode
-echo you should check out code
+echo also you should check out code
 echo fish at gamersups.gg
 echo it helps support stanleys
 echo second channel and if you mix
@@ -1346,7 +1554,7 @@ echo do it NOWWWWWW!
 type pizzaboxmainsprite.sl2
 pause
 Pizzpop.exe "also you should subscribe to stanleymov"
-goto debug_select
+goto levelstart
 :stanley_mov
 goto stanleymov
 :fire
@@ -1360,85 +1568,6 @@ echo so please stop asking me for the answear.
 type pizzaboxangriysprite.sl2
 pause
 goto main_menu
-:pizzabox_chat
-title the best chat of 2006
-if %name%== janco goto invalid_opcode
-set /p chat=%name%:
-if %chat%== hi echo pizzabox:hello did you do your homework %name%
-if %chat%== hello echo pizzabox:hi did you do your homework %name%
-if %chat%== what echo pizzabox:huh
-if %chat%== yes echo pizzabox:oh okay
-if %chat%== no echo pizzabox:you have one day left to do it. or else concequences will be involved %name%.
-if %chat%== wtf echo pizzabox:dont say that %name%. thats mean and disrespectful.
-if %chat%== fuck echo pizzanox:dont say that %name%. thats mean and disrespectful.
-if %chat%== fuck_you echo pizzabox:dont say that %name%. thats mean and disrespectful.
-if %chat%== fuckyou echo pizzabox:dont say that %name%. thats mean and disrespectful.
-if %chat%== nigga echo pizzabox:dont say that %name%. thats mean and disrespectful.
-if %chat%== shit echo pizzabox:dont say that %name%. thats mean and disrespectful.
-if %chat%== porn echo pizzabox:dont say that %name%. thats mean and disrespectful.
-if %chat%== whitemonkey echo pizzabox:dont say that %name%. thats mean and disrespectful.
-if %chat%== white_monkey echo pizzabox:dont say that %name%. thats mean and disrespectful.
-if %chat%== ilikeyou echo pizzabox:okay
-if %chat%== iloveyou echo pizzabox:youre wierd
-if %chat%== whatbrowzerdoyouuse echo pizzabox:internet explorer 9
-if %chat%== what_browzer_do_you_use echo pizzabox:internet explorer 9
-if %chat%== whatoperatingsystemdoyouuse echo pizzabox:MS.DOS 6
-if %chat%== what_operating_system_do_you_use echo pizzabox:MS.DOS 6
-if %chat%== i_hate_you goto -1
-if %chat%== wigger goto -1
-if %chat%== broke echo pizzabox:im your computer youre broke
-if %chat%== rich echo pizzabox:depends. im your computer after all
-if %chat%== i_fucking_hate_you goto -1
-if %chat%== chatgpt echo pizzabox:im pre programmed. all of this is built on the exe file you stupid thing
-if %chat%== eliza echo pizzabox:hmm. sound familar
-if %chat%== google echo pizzabox:still a good search engine
-if %chat%== yahoo echo pizzabox:i like email
-if %chat%== outlook echo pizzabox:what
-if %chat%== hotmail echo pizzabox:i like email
-if %chat%== lemon echo pizzabox:okay
-if %chat%== okay echo pizzabox:okay
-if %chat%== what echo pizzabox:what
-if %chat%== iwanttofuckyou goto -1
-if %chat%== i_want_to_fuck_you goto -1
-if %chat%== ifuckinghateyou goto -1
-if %chat%== imgoingtoeatyou echo nuh uh
-if %chat%== im_going_to_eat_you echo nuh uh
-if %chat%== thefuckyoumeannuhuh echo nuh uh
-if %chat%== the_fuck_you_mean_nuh_uh echo nuh
-if %chat%== nuhuh echo pizzabox:nuh uh
-if %chat%== nuh_uh echo pizzabox:nuh uh
-if %chat%== amogus echo pizzabox:what
-if %chat%== amongus echo pizzabox:what
-if %chat%== among_us echo pizzabox:what
-if %chat%== minecraft echo pizzabox:what is minecraft
-if %chat%== roblox echo pizzabox:that lego rip-off
-if %chat%== lego echo pizzabox:i like legos. i wish i could toutch them.
-if %chat%== geometrydash echo pizzabox:whats that
-if %chat%== geometry_dash echo pizzabox:whats that
-if %chat%== too_kid_friendly goto -1
-if %chat%== stereo_madness goto -1
-if %chat%== tookidfriendly goto -1
-if %chat%== stereomadness goto -1
-if %chat%== sonic echo pizzabox:i REMEMBER playing with him on the tokyo show on 1990
-if %chat%== mario echo pizzabox:he saved consoles.
-if %chat%== pacman echo pizzabox:i like pacman
-if %chat%== i_like_niggers goto -1
-if %chat%== ilikeniggers goto -1
-if %chat%== i_like_sluts goto -1
-if %chat%== ilikesluts goto -1
-if %chat%== i_like_pepole_like_you echo pizzabox:awww thanks
-if %chat%== ilikepepolelikeyou echo pizzabox:aww thanks
-if %chat%== i_like_computers_like_you echo aww thanks
-if %chat%== ilikecomputerslikeyou echo pizzabox:aww thanks
-if %chat%== i_like_bitches goto -1
-if %chat%== ilikebitches goto -1
-if %chat%== i_like_the_bitches goto -1
-if %chat%== ilikethebitches goto -1
-if %chat%== dim echo pizzabox:his name seems farmilliar.
-if %chat%== ssniperwolf echo pizzabox:so the video stealer
-if %chat%== autodrawer echo pizzabox:what
-if %chat%== idk echo pizzabox:lets talk about if you did your homework.
-goto pizzabox_chat
 :custom_message
 cls
 echo send a message to your computer
@@ -2448,6 +2577,86 @@ if %janco_damage%== 17 goto janco_defeat0
 if %janco_damage%== 18 goto janco_defeat0
 if %janco_damage%== 19 goto janco_defeat0
 if %janco_damage%== 20 goto janco_defeat0
+if %janco_damage%== 21 goto janco_defeat0
+if %janco_damage%== 22 goto janco_defeat0
+if %janco_damage%== 23 goto janco_defeat0
+if %janco_damage%== 24 goto janco_defeat0
+if %janco_damage%== 25 goto janco_defeat0
+if %janco_damage%== 26 goto janco_defeat0
+if %janco_damage%== 27 goto janco_defeat0
+if %janco_damage%== 28 goto janco_defeat0
+if %janco_damage%== 29 goto janco_defeat0
+if %janco_damage%== 30 goto janco_defeat0
+if %janco_damage%== 31 goto janco_defeat0
+if %janco_damage%== 32 goto janco_defeat0
+if %janco_damage%== 33 goto janco_defeat0
+if %janco_damage%== 34 goto janco_defeat0
+if %janco_damage%== 35 goto janco_defeat0
+if %janco_damage%== 36 goto janco_defeat0
+if %janco_damage%== 37 goto janco_defeat0
+if %janco_damage%== 38 goto janco_defeat0
+if %janco_damage%== 39 goto janco_defeat0
+if %janco_damage%== 40 goto janco_defeat0
+if %janco_damage%== 41 goto janco_defeat0
+if %janco_damage%== 42 goto janco_defeat0
+if %janco_damage%== 43 goto janco_defeat0
+if %janco_damage%== 44 goto janco_defeat0
+if %janco_damage%== 45 goto janco_defeat0
+if %janco_damage%== 46 goto janco_defeat0
+if %janco_damage%== 47 goto janco_defeat0
+if %janco_damage%== 48 goto janco_defeat0
+if %janco_damage%== 49 goto janco_defeat0
+if %janco_damage%== 50 goto janco_defeat0
+if %janco_damage%== 51 goto janco_defeat0
+if %janco_damage%== 52 goto janco_defeat0
+if %janco_damage%== 53 goto janco_defeat0
+if %janco_damage%== 54 goto janco_defeat0
+if %janco_damage%== 55 goto janco_defeat0
+if %janco_damage%== 56 goto janco_defeat0
+if %janco_damage%== 57 goto janco_defeat0
+if %janco_damage%== 58 goto janco_defeat0
+if %janco_damage%== 59 goto janco_defeat0
+if %janco_damage%== 60 goto janco_defeat0
+if %janco_damage%== 61 goto janco_defeat0
+if %janco_damage%== 62 goto janco_defeat0
+if %janco_damage%== 63 goto janco_defeat0
+if %janco_damage%== 64 goto janco_defeat0
+if %janco_damage%== 65 goto janco_defeat0
+if %janco_damage%== 66 goto janco_defeat0
+if %janco_damage%== 67 goto janco_defeat0
+if %janco_damage%== 68 goto janco_defeat0
+if %janco_damage%== 69 goto janco_defeat0
+if %janco_damage%== 70 goto janco_defeat0
+if %janco_damage%== 71 goto janco_defeat0
+if %janco_damage%== 72 goto janco_defeat0
+if %janco_damage%== 73 goto janco_defeat0
+if %janco_damage%== 74 goto janco_defeat0
+if %janco_damage%== 75 goto janco_defeat0
+if %janco_damage%== 76 goto janco_defeat0
+if %janco_damage%== 77 goto janco_defeat0
+if %janco_damage%== 78 goto janco_defeat0
+if %janco_damage%== 79 goto janco_defeat0
+if %janco_damage%== 80 goto janco_defeat0
+if %janco_damage%== 81 goto janco_defeat0
+if %janco_damage%== 82 goto janco_defeat0
+if %janco_damage%== 83 goto janco_defeat0
+if %janco_damage%== 84 goto janco_defeat0
+if %janco_damage%== 85 goto janco_defeat0
+if %janco_damage%== 86 goto janco_defeat0
+if %janco_damage%== 87 goto janco_defeat0
+if %janco_damage%== 88 goto janco_defeat0
+if %janco_damage%== 89 goto janco_defeat0
+if %janco_damage%== 90 goto janco_defeat0
+if %janco_damage%== 91 goto janco_defeat0
+if %janco_damage%== 92 goto janco_defeat0
+if %janco_damage%== 93 goto janco_defeat0
+if %janco_damage%== 94 goto janco_defeat0
+if %janco_damage%== 95 goto janco_defeat0
+if %janco_damage%== 96 goto janco_defeat0
+if %janco_damage%== 97 goto janco_defeat0
+if %janco_damage%== 98 goto janco_defeat0
+if %janco_damage%== 99 goto janco_defeat0
+if %janco_damage%== 100 goto janco_defeat0
 goto janco_fight_start
 :janco_defeat0
 title woah...
@@ -2529,3 +2738,25 @@ del pizzabox2.bat
 del pizzaboxfungame32bit.exe
 del pizzaboxfungame64bit.exe
 exit
+:autodrawer_cutscene0
+cls
+echo hello! my name is %random%!
+:corrupt0
+cls
+title corrupting...
+echo corrupt_0
+pause
+goto corrupt1
+:corrupt1
+cls
+title corrupting...
+echo corrupt_1
+pause
+goto corrupt2
+:corrupt2
+cls
+title corrupting...
+set debug=1
+echo corrupt_2
+pause
+goto janco_defeat8
