@@ -20,7 +20,7 @@
 ::YAwzuBVtJxjWCl3EqQJgSA==
 ::ZR4luwNxJguZRRnk
 ::Yhs/ulQjdF+5
-::cxAkpRVqdFKZSDk=
+::cxAkpRVqdFKZSjk=
 ::cBs/ulQjdF+5
 ::ZR41oxFsdFKZSDk=
 ::eBoioBt6dFKZSDk=
@@ -41,7 +41,7 @@
 ::ZQ0/vhVqMQ3MEVWAtB9weFUEAlTMaQs=
 ::Zg8zqx1/OA3MEVWAtB9weFUEAlTMbgs=
 ::dhA7pRFwIByZRRmw3GdwCj5neES2GUqSMpY0wcbcr82mj2hdBrJvLs/96JGrYMQ83WvIWrcJllxove5MLj5rSlKYSyMYjFxx9jbVZ5HckSrSfgiux2YVW0FdtED/ug4JWZNLsuIt/QWSvAXRsOUj8lnSF+lEAmahwL5teNoP7xitKF3H2rJbU7bqarDoBDPbY2oemWPGj8N+kcM0UDVnDhtVhql59S7qA4Wz2XkBLCvAp/nwwVczJ87zZbdZmQ+4wSNfw+fzgFhJA3NBFV8cRg2ODk0=
-::Zh4grVQjdCqDJF6F+Uc0LQ1oQguMcW+/BKAb1Pjy9fCGoEIFUvcxf47W3+fcIukHpED8cPY=
+::Zh4grVQjdCqDJF6F+Uc0LQ1oQguMcW+/BKAb1Pjy9fCGoEIFUvcxf47W3+LaIukHpED8cPY=
 ::YB416Ek+ZG8=
 ::
 ::
@@ -370,6 +370,7 @@ type pizzaboxangriysprite.sl2
 pause
 goto -2
 :-2
+cls
 echo i hope i never see you again ;)
 type pizzaboxmainsprite.sl2
 pause
@@ -642,9 +643,11 @@ goto invalid_option
 :debugtool
 goto debugtool0
 :debugtool0
+set level=placeholder
 title THE BEST LEVEL SELECT OF 2006
 echo select level.
 set /p level=
+if %level%== placeholder goto debugtool0
 set titlenumber=%level%
 goto extra
 :extra
@@ -841,21 +844,26 @@ echo %number1%.%number2%.%number3%.%number4%
 pause
 exit
 :command0
+set experssion=lingaguliguliguliwatchalingagoolingagoo
 cls
 echo what pizzabox expresion do you want?
-echo SAD
-echo Happy
-echo Angriy
-echo Custom
+echo sad
+echo main
+echo angriy
+echo custom
 set /p expression=
+if %expression%== lingaguliguliguliwatchalingagoolingagoo goto command0
 goto command1
 :command1
+set textbox=_790_90
 cls
 type pizzabox%expession%sprite.sl2
 echo choose a text box.
 set /p textbox=
+if %textbox%== _790_90
 goto command2
 :command2
+set results=placeholder_result
 cls
 echo see results?
 set /p results=
@@ -968,6 +976,7 @@ type pizzbox%expression%sprite.sl2
 pause
 goto check
 :command4
+set yes=placeholder
 cls
 echo choose an option.
 echo main_menu
@@ -1157,6 +1166,65 @@ set /p code37=
 set /p code38=
 set /p code39=
 set /p code40=
+set /p code41=
+set /p code42=
+set /p code43=
+set /p code44=
+set /p code45=
+set /p code46=
+set /p code47=
+set /p code48=
+set /p code49=
+set /p code50=
+set /p code51=
+set /p code52=
+set /p code53=
+set /p code54=
+set /p code55=
+set /p code56=
+set /p code57=
+set /p code58=
+set /p code59=
+set /p code60=
+set /p code61=
+set /p code62=
+set /p code63=
+set /p code64=
+set /p code65=
+set /p code66=
+set /p code67=
+set /p code68=
+set /p code69=
+set /p code70=
+set /p code71=
+set /p code72=
+set /p code73=
+set /p code74=
+set /p code75=
+set /p code76=
+set /p code77=
+set /p code78=
+set /p code79=
+set /p code80=
+set /p code81=
+set /p code82=
+set /p code83=
+set /p code84=
+set /p code85=
+set /p code86=
+set /p code87=
+set /p code88=
+set /p code89=
+set /p code90=
+set /p code91=
+set /p code92=
+set /p code93=
+set /p code94=
+set /p code95=
+set /p code96=
+set /p code97=
+set /p code98=
+set /p code99=
 goto code_read
 :code_read
 %code0%
@@ -1199,6 +1267,75 @@ goto code_read
 %code38%
 %code39%
 %code40%
+%code41%
+%code42%
+%code43%
+%code44%
+%code45%
+%code46%
+%code47%
+%code48%
+%code49%
+%code50%
+%code51%
+%code52%
+%code53%
+%code54%
+%code55%
+%code46%
+%code47%
+%code48%
+%code49%
+%code50%
+%code51%
+%code52%
+%code53%
+%code54%
+%code55%
+%code56%
+%code57%
+%code58%
+%code59%
+%code60%
+%code61%
+%code62%
+%code63%
+%code64%
+%code65%
+%code66%
+%code67%
+%code68%
+%code69%
+%code70%
+%code71%
+%code72%
+%code73%
+%code74%
+%code75%
+%code76%
+%code77%
+%code78%
+%code79%
+%code80%
+%code81%
+%code82%
+%code83%
+%code84%
+%code85%
+%code86%
+%code87%
+%code88%
+%code89%
+%code90%
+%code91%
+%code92%
+%code93%
+%code94%
+%code95%
+%code96%
+%code97%
+%code98%
+%code99%
 goto check
 :debug_select
 Pizzpop.exe "WELCOME TO THE PIZZABOX DEBUG SELECT MENU!"
